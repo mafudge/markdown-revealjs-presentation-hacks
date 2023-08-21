@@ -8,7 +8,7 @@ date: 8/21/2023
 
 Ween yourself off Powerpoint using Markdown, Pandoc and Reveal.js
 
-by: Michael Fudge
+[https://github.com/mafudge/markdown-revealjs-presentation-hacks](https://github.com/mafudge/markdown-revealjs-presentation-hacks)
 
 ---
 
